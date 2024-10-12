@@ -5,3 +5,8 @@
 mkdir project
 cd project
 ```
+Клонируем форкнутый репозиторий через ssh и открываем его
+```
+git clone git@github.com:Evgenii-afk/bmstu_cpp_course.git
+cd bmstu_cpp_course
+```
